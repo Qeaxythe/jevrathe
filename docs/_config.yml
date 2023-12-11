@@ -28,7 +28,7 @@ github_username:  Qeaxythe
 domain: qeaxythe.github.io
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 remote_theme: minima
 plugins:
   - jekyll-feed
